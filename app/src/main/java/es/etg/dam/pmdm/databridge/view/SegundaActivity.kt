@@ -35,7 +35,6 @@ class SegundaActivity : AppCompatActivity(), View.OnClickListener {
         }
     }
 
-    @Override
     override fun onClick(p0: View?) {
         val intent = Intent(this, MainActivity::class.java)
         startActivity(intent)
