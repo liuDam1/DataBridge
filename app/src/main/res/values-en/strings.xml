@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DataBridge</string>
+    <string name="Mostrar">Show</string>
+    <string name="Volver">Back</string>
+</resources>
